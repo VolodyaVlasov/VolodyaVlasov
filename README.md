@@ -2,10 +2,7 @@
 
 - Java
 - [Структуры данных](https://github.com/VolodyaVlasov/DataStructures)
-- [Алгоритмы][2]
+- [Алгоритмы](https://github.com/VolodyaVlasov/Algorithms)
 - ООП
 - Тестирование
 - Системы контроля версий
-
-[1]:(https://github.com/VolodyaVlasov/DataStructures)
-[2]:(https://github.com/VolodyaVlasov/Algorithms)
