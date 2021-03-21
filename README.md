@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @VolodyaVlasov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Здравствуйте,  меня зовут Владимир и я начинающий java разработчик, на данный момент мною изученный следующие темы:
 
-<!---
-VolodyaVlasov/VolodyaVlasov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Java
+- [Структуры данных][1]
+- [Алгоритмы][2]
+- ООП
+- Тестировие
+- Системы контроля версий
+
+[1]:(https://github.com/VolodyaVlasov/DataStructures)
+[2]:(https://github.com/VolodyaVlasov/Algorithms)
