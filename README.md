@@ -4,5 +4,6 @@
 - [Структуры данных](https://github.com/VolodyaVlasov/DataStructures)
 - [Алгоритмы](https://github.com/VolodyaVlasov/Algorithms)
 - ООП
+- SQL
 - Тестирование
 - Системы контроля версий
